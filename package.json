@@ -1,0 +1,14 @@
+{
+   "name": "com.cleanercoding.cleaner-touch-controls",
+   "version": "0.0.1",
+   "displayName": "Cleaner Touch Controls",
+   "description": "Simple mobile touch controls",
+   "keywords": [
+      "cleaner",
+   ],
+   "author": {
+      "name": "Cleaner",
+      "email": "cleaner@cleanercoding.com",
+      "url": "https://www.cleanercoding.com"
+   }
+}
